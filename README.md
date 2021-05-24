@@ -19,9 +19,9 @@ There are 2 APIs in this project:
 ### Configure environment in config file
 
 1. Configure Marvel's API public key and private key in config file.
-    a. MARVEL_PUBLIC_KEY= **Public Key**
-    b. MARVEL_PRIVATE_KEY=**Private Key**
-    c. MARVEL_API_KEY=**API Key**
+    * MARVEL_PUBLIC_KEY= **Public Key**
+    * MARVEL_PRIVATE_KEY=**Private Key**
+    * MARVEL_API_KEY=**API Key**
 
 *Key will shared seperately
 
