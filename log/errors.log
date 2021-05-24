@@ -1,0 +1,6 @@
+[2021-05-24T14:58:13.499] [ERROR] error - Exception when invoke get marvel's character api: Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}

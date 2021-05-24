@@ -1,0 +1,80 @@
+openapi: 3.0.0
+servers:
+- url: http://localhost:8080/
+  description: "Localhost"
+info:
+  description: Marvel character api
+  version: "1.0.0"
+  title: Marvel character api
+  contact:
+    email: jiazheng.1991@gmail.com
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: public
+    description: Operations available for public
+paths:
+  /characters:
+    get:
+      tags:
+        - public
+      summary: get all marvel characters
+      operationId: characters
+      description: |
+        Return all marvel characters
+      responses:
+        '200':
+          description: return all marvel characters in array list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: integer
+                properties:
+                  id:
+                    type: integer
+                    example: 1009146
+  /characters/{id}:
+    get:
+      tags:
+        - public
+      summary: get all marvel characters
+      operationId: findCharacters
+      description: |
+        Return all marvel characters
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        '200':
+          description: return all marvel characters in array list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Character'
+components:
+  schemas:
+    Character:
+      type: object
+      required:
+        - id
+        - name
+        - description
+      properties:
+        id:
+          type: integer
+          example: 1009146
+        name:
+          type: string
+          example: Abomination (Emil Blonsky)
+        releaseDate:
+          type: string
+          example: Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.

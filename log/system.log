@@ -1,0 +1,214 @@
+[2021-05-24T13:37:05.129] [INFO] access - Invoke Get all character API
+[2021-05-24T13:37:05.130] [INFO] system - Invoke Marvel API
+[2021-05-24T13:37:21.052] [INFO] access - Invoke Get all character API
+[2021-05-24T13:37:33.590] [INFO] access - Invoke Get all character API
+[2021-05-24T13:37:33.591] [INFO] system - Invoke Marvel API
+[2021-05-24T13:38:30.983] [INFO] system - Invoke Get all character API
+[2021-05-24T13:38:30.984] [INFO] system - Invoke Marvel API
+[2021-05-24T13:40:46.183] [INFO] system - Invoke Get all character API
+[2021-05-24T13:40:46.184] [INFO] error - Could not find in cache , id : 1
+[2021-05-24T13:40:57.984] [INFO] system - Invoke Get all character API
+[2021-05-24T13:40:57.986] [INFO] errors - Could not find in cache , id : 1
+[2021-05-24T13:41:29.897] [INFO] system - Invoke Get all character API
+[2021-05-24T13:41:29.897] [INFO] errors - Could not find in cache , id : 1
+[2021-05-24T13:41:31.412] [INFO] system - Invoke Get all character API
+[2021-05-24T13:41:31.412] [INFO] errors - Could not find in cache , id : 1
+[2021-05-24T13:44:06.311] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:06.311] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:44:06.311] [INFO] system - Invoke Marvel API
+[2021-05-24T13:44:19.893] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:20.641] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:21.397] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:26.138] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:26.139] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:44:26.139] [INFO] system - Invoke Marvel API
+[2021-05-24T13:44:29.382] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:30.256] [INFO] system - Invoke Get all character API
+[2021-05-24T13:44:50.984] [INFO] system - Invoke Get all character API
+[2021-05-24T13:48:33.104] [INFO] system - Invoke Get all character API
+[2021-05-24T13:48:33.104] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:48:33.105] [INFO] system - Invoke Marvel API
+[2021-05-24T13:49:07.467] [INFO] system - Invoke Get all character API
+[2021-05-24T13:49:07.468] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:49:07.468] [INFO] system - Invoke Marvel API
+[2021-05-24T13:49:20.572] [INFO] system - Invoke Get all character API
+[2021-05-24T13:49:20.573] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:49:20.573] [INFO] system - Invoke Marvel API
+[2021-05-24T13:50:55.622] [INFO] system - Invoke Get all character API
+[2021-05-24T13:50:55.622] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:50:55.623] [INFO] system - Invoke Marvel API
+[2021-05-24T13:54:56.518] [INFO] system - Invoke Get all character API
+[2021-05-24T13:54:56.519] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:54:56.519] [INFO] system - Invoke Marvel API
+[2021-05-24T13:56:32.275] [INFO] system - Invoke Get all character API
+[2021-05-24T13:56:32.276] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:56:32.276] [INFO] system - Invoke Marvel API
+[2021-05-24T13:56:48.553] [INFO] system - Invoke Get all character API
+[2021-05-24T13:56:48.554] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:56:48.554] [INFO] system - Invoke Marvel API
+[2021-05-24T13:59:34.834] [INFO] system - Invoke Get all character API
+[2021-05-24T13:59:34.835] [INFO] system - Refresh Marvel Cache
+[2021-05-24T13:59:34.835] [INFO] system - Invoke Marvel API
+[2021-05-24T14:02:43.984] [INFO] system - Invoke Get all character API
+[2021-05-24T14:02:43.985] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:02:43.985] [INFO] system - Invoke Marvel API
+[2021-05-24T14:03:42.914] [INFO] system - Invoke Get all character API
+[2021-05-24T14:03:42.915] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:03:42.915] [INFO] system - Invoke Marvel API
+[2021-05-24T14:06:47.342] [INFO] system - Invoke Get all character API
+[2021-05-24T14:06:47.342] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:06:47.343] [INFO] system - Invoke Marvel API
+[2021-05-24T14:08:49.754] [INFO] system - Invoke Get all character API
+[2021-05-24T14:08:49.755] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:08:49.755] [INFO] system - Invoke Marvel API
+[2021-05-24T14:12:07.290] [INFO] system - Invoke Get all character API
+[2021-05-24T14:12:07.291] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:12:07.291] [INFO] system - Invoke Marvel API
+[2021-05-24T14:13:37.326] [INFO] system - Invoke Get all character API
+[2021-05-24T14:14:21.857] [INFO] system - Invoke Get all character API
+[2021-05-24T14:14:21.858] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:14:21.858] [INFO] system - Invoke Marvel API
+[2021-05-24T14:31:43.857] [INFO] system - Invoke Get all character API
+[2021-05-24T14:31:43.858] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:31:43.858] [INFO] system - Invoke Marvel API
+[2021-05-24T14:31:55.229] [INFO] system - Invoke Marvel API
+[2021-05-24T14:32:11.429] [INFO] system - Invoke Get all character API
+[2021-05-24T14:32:11.430] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:32:11.430] [INFO] system - Invoke Marvel API
+[2021-05-24T14:32:19.191] [INFO] system - Invoke Marvel API
+[2021-05-24T14:32:33.039] [INFO] system - Invoke Marvel API
+[2021-05-24T14:32:40.746] [INFO] system - Invoke Marvel API
+[2021-05-24T14:32:45.540] [INFO] system - Invoke Marvel API
+[2021-05-24T14:33:00.559] [INFO] system - Invoke Marvel API
+[2021-05-24T14:33:17.694] [INFO] system - Invoke Marvel API
+[2021-05-24T14:33:32.248] [INFO] system - Invoke Marvel API
+[2021-05-24T14:33:56.774] [INFO] system - Invoke Marvel API
+[2021-05-24T14:34:14.353] [INFO] system - Invoke Marvel API
+[2021-05-24T14:34:32.714] [INFO] system - Invoke Marvel API
+[2021-05-24T14:34:37.591] [INFO] system - Invoke Marvel API
+[2021-05-24T14:35:03.718] [INFO] system - Invoke Marvel API
+[2021-05-24T14:35:27.534] [INFO] system - Invoke Marvel API
+[2021-05-24T14:35:51.164] [INFO] system - Invoke Get all character API
+[2021-05-24T14:35:51.165] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:35:51.165] [INFO] system - Invoke Marvel API
+[2021-05-24T14:38:18.614] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:38:18.616] [INFO] system - Invoke Marvel API
+[2021-05-24T14:38:56.042] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:38:56.044] [INFO] system - Invoke Marvel API
+[2021-05-24T14:39:07.544] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:39:07.546] [INFO] system - Invoke Marvel API
+[2021-05-24T14:39:33.457] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:39:33.459] [INFO] system - Invoke Marvel API
+[2021-05-24T14:39:42.562] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:39:42.563] [INFO] system - Invoke Marvel API
+[2021-05-24T14:42:16.286] [INFO] system - Invoke Get all character API
+[2021-05-24T14:42:40.014] [INFO] system - Invoke Get all character API
+[2021-05-24T14:43:37.357] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:43:37.359] [INFO] system - Invoke Marvel API
+[2021-05-24T14:50:49.605] [INFO] system - Invoke Get all character API
+[2021-05-24T14:50:49.606] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:50:49.606] [INFO] system - Invoke Marvel API
+[2021-05-24T14:57:25.001] [INFO] system - Invoke Get all character API
+[2021-05-24T14:57:25.001] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:57:25.001] [INFO] system - Invoke Marvel API
+[2021-05-24T14:58:08.361] [INFO] system - Invoke Get all character API
+[2021-05-24T14:58:08.362] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:58:08.362] [INFO] system - Invoke Marvel API
+[2021-05-24T14:58:13.499] [ERROR] error - Exception when invoke get marvel's character api: Error: read ECONNRESET
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:205:27) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+[2021-05-24T14:59:10.271] [INFO] system - Invoke Get all character API
+[2021-05-24T14:59:10.271] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:59:10.272] [INFO] system - Invoke Marvel API
+[2021-05-24T14:59:27.324] [INFO] system - Invoke Get all character API
+[2021-05-24T14:59:27.325] [INFO] system - Refresh Marvel Cache
+[2021-05-24T14:59:27.325] [INFO] system - Invoke Marvel API
+[2021-05-24T15:00:06.992] [INFO] system - Invoke Get all character API
+[2021-05-24T15:00:06.993] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:00:06.993] [INFO] system - Invoke Marvel API
+[2021-05-24T15:01:13.921] [INFO] system - Invoke Get all character API
+[2021-05-24T15:02:08.237] [INFO] system - Invoke Get all character API
+[2021-05-24T15:02:08.238] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:02:08.238] [INFO] system - Invoke Marvel API
+[2021-05-24T15:02:08.288] [INFO] system - Invoke Get all character API
+[2021-05-24T15:02:08.298] [INFO] system - Invoke Get all character API
+[2021-05-24T15:02:08.299] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:02:08.327] [INFO] system - Invoke Get all character API
+[2021-05-24T15:02:08.346] [INFO] system - Invoke Get all character API
+[2021-05-24T15:03:00.014] [INFO] system - Invoke Get all character API
+[2021-05-24T15:03:00.015] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:03:00.015] [INFO] system - Invoke Marvel API
+[2021-05-24T15:03:00.055] [INFO] system - Invoke Get all character API
+[2021-05-24T15:03:00.070] [INFO] system - Invoke Get all character API
+[2021-05-24T15:03:00.070] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:03:00.103] [INFO] system - Invoke Get all character API
+[2021-05-24T15:03:00.127] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:13.288] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:13.289] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:05:13.289] [INFO] system - Invoke Marvel API
+[2021-05-24T15:05:13.339] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:13.351] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:13.351] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:05:13.400] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:15.414] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:42.638] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:42.639] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:05:42.639] [INFO] system - Invoke Marvel API
+[2021-05-24T15:05:42.693] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:42.705] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:42.705] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:05:42.727] [INFO] system - Invoke Get all character API
+[2021-05-24T15:05:44.744] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.486] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.487] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:06:36.488] [INFO] system - Invoke Marvel API
+[2021-05-24T15:06:36.557] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.582] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.582] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:06:36.649] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.667] [INFO] system - Invoke Get all character API
+[2021-05-24T15:06:36.694] [INFO] system - Invoke Get all character API
+[2021-05-24T15:07:17.371] [INFO] system - Invoke Get all character API
+[2021-05-24T15:07:17.372] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:07:17.372] [INFO] system - Invoke Marvel API
+[2021-05-24T15:07:17.426] [INFO] system - Invoke Get all character API
+[2021-05-24T15:07:17.438] [INFO] system - Invoke Get all character API
+[2021-05-24T15:07:17.439] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:07:17.464] [INFO] system - Invoke Get all character API
+[2021-05-24T15:07:17.467] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:10.134] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:10.134] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:08:10.135] [INFO] system - Invoke Marvel API
+[2021-05-24T15:08:10.164] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:10.176] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:10.176] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:08:10.202] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:10.206] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:26.671] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:26.672] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:08:26.672] [INFO] system - Invoke Marvel API
+[2021-05-24T15:08:26.722] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:26.734] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:26.734] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T15:08:26.759] [INFO] system - Invoke Get all character API
+[2021-05-24T15:08:26.763] [INFO] system - Invoke Get all character API
+[2021-05-24T15:20:53.548] [INFO] system - Invoke Get all character API
+[2021-05-24T15:20:53.548] [INFO] system - Refresh Marvel Cache
+[2021-05-24T15:20:53.549] [INFO] system - Invoke Marvel API
+[2021-05-24T15:21:35.118] [INFO] system - Invoke Get all character API
+[2021-05-24T15:21:41.136] [INFO] system - Invoke Get all character API
+[2021-05-24T15:21:41.136] [INFO] errors - Could not find in cache , id : 10178391
+[2021-05-24T16:06:41.414] [INFO] system - Invoke Get all character API
+[2021-05-24T16:06:41.414] [INFO] system - Refresh Marvel Cache
+[2021-05-24T16:06:41.414] [INFO] system - Invoke Marvel API
+[2021-05-24T16:08:01.354] [INFO] system - Invoke Get all character API
+[2021-05-24T16:08:01.355] [INFO] system - Refresh Marvel Cache
+[2021-05-24T16:08:01.355] [INFO] system - Invoke Marvel API
+[2021-05-24T16:08:01.376] [INFO] system - Invoke Get all character API
+[2021-05-24T16:08:01.386] [INFO] system - Invoke Get all character API
+[2021-05-24T16:08:01.386] [INFO] errors - Could not find in cache , id : 123
+[2021-05-24T16:08:01.427] [INFO] system - Invoke Get all character API
+[2021-05-24T16:08:01.441] [INFO] system - Invoke Get all character API

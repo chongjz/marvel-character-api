@@ -1,0 +1,41 @@
+{
+    "appenders": {
+        "startup": {
+            "type": "file",
+            "filename": "log/startup.log",
+            "maxLogSize": 10485760,
+            "numBackups": 3
+        },
+        "system": {
+            "type": "file",
+            "filename": "log/system.log",
+            "maxLogSize": 10485760,
+            "numBackups": 3
+        },
+        "errorFile": {
+            "type": "file",
+            "filename": "log/errors.log"
+        },
+        "errors": {
+            "type": "logLevelFilter",
+            "level": "ERROR",
+            "appender": "errorFile"
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": [
+                "system",
+                "errors"
+            ],
+            "level": "DEBUG"
+        },
+        "startup": {
+            "appenders": [
+                "startup",
+                "errors"
+            ],
+            "level": "DEBUG"
+        }
+    }
+}
